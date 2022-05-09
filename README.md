@@ -24,7 +24,7 @@
 
 ###-Despues Mostramos los contenedores en ejecución (Estado Up)
 
-![Paso5](Alphine2/Paso3.1.png "Paso 3.1")
+![Paso5](Alphine2/Paso3.1.png "Paso 3")
 
 ###-Por ultimo Mostramos todos los contenedores creados ya estén en ejecución (Estado Up) o parados (Estado Exited)
 
